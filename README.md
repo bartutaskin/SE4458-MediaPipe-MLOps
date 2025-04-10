@@ -1,6 +1,6 @@
 # Hand Tracking with MediaPipe and MLflow
 
-This project is developed as part of the **SE 4458 - Software Engineering** course. It demonstrates real-time hand tracking using **MediaPipe**, integrated with **MLflow** for basic MLOps functionalities such as logging parameters and performance metrics (FPS).
+This project is developed as part of the **SE 4458 - SYSTEMS ARCHITECTURE FOR LARGE-SCALE SYSTEMS** course. It demonstrates real-time hand tracking using **MediaPipe**, integrated with **MLflow** for basic MLOps functionalities such as logging parameters and performance metrics (FPS).
 
 ## 📌 Project Structure
 
