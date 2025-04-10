@@ -1,1 +1,0 @@
-MediaPipe & MLOps Project
