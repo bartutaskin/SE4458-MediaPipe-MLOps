@@ -3,12 +3,12 @@
 This project is developed as part of the **SE 4458 - SYSTEMS ARCHITECTURE FOR LARGE-SCALE SYSTEMS** course. It demonstrates real-time hand tracking using **MediaPipe**, integrated with **MLflow** for basic MLOps functionalities such as logging parameters and performance metrics (FPS).
 
 ## 📌 Project Structure
-
+```
 ├── .gitignore # Standard Git ignore file 
 ├── HandTracking.py # Main script for hand tracking and MLflow integration 
 ├── HandTrackingModule.py # (Optional/for extensions) Utility functions for modular tracking 
 ├── requirements.txt # Required Python libraries
-
+```
 
 ## 🎯 Features
 
